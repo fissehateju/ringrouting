@@ -1,3 +1,9 @@
+This simulator supports multiple mobile sink.
+
+if you are looking for the one-sink ring routing plz go to "https://github.com/howbani/RingRouting".
+
+
+
 # Ring routing: An energy-efficient routing protocol for wireless sensor networks with a mobile sink
 
 
